@@ -1,6 +1,6 @@
 Package: zbrpkg
 Type: Package
-Title: Just a simple test package.
+Title: Just a simple test package
 Version: 1.0.0
 Author: Zbynek Zdrazil
 Maintainer: The package maintainer <zzdrazil@atrimax.com>
