@@ -5,6 +5,6 @@ Version: 1.0.0
 Author: Zbynek Zdrazil
 Maintainer: The package maintainer <zzdrazil@atrimax.com>
 Description: This package does nothin else than outputs a greeting text.
-License: GPL 3.0
+License: GPLv3
 Encoding: UTF-8
 LazyData: true
