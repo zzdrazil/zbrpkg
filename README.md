@@ -1,2 +1,2 @@
 # zbrpkg
-A test R package.
+A test R package. Not for the real work.
